@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Madd-G/Madd-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'am **Akhmad Nur Alamsyah**
+I'm currently studying at Institut Teknologi Telkom Purwokerto
 
-Here are some ideas to get you started:
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://github.com/Madd-G">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Madd-G&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madd-G&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<a href="https://www.linkedin.com/in/akhmad-nur-alamsyah-678a45194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
