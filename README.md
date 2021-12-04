@@ -6,7 +6,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 <p align="left">
 <a href="https://github.com/Madd-G">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madd-G&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="270em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madd-G&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
