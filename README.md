@@ -1,4 +1,5 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Akhmad Nur Alamsyah 👨‍💻
+Hi, I am Akhmad Nur Alamsyah 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">
 
 I'm currently studying at Institut Teknologi Telkom Purwokerto
 
