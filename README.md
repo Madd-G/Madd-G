@@ -1,10 +1,23 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="150px">
 
-Hi, I am Akhmad Nur Alamsyah 👨‍💻
+# Hello,  👋
 
-I'm currently studying at Institut Teknologi Telkom Purwokerto
+I'm Akhmad Nur Alamsyah, a passionate coder and recent graduate from Institut Teknologi Telkom Purwokerto 🎓. Currently exploring the vast world of technology and striving to make an impact.
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+## About Me
+- 🌐 Exploring the tech universe and creating cool stuff.
+- 🎓 Recent graduate from Institut Teknologi Telkom Purwokerto.
+
+## Get in Touch
+Feel free to connect, collaborate, or just say hi:
+- 📧 Email: akhmadnuralamsyah@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/akhmad-nur-alamsyah](https://www.linkedin.com/in/akhmad-nur-alamsyah/)
+
+## Open for Collaboration
+Excited about coding adventures! Open to collaborations, project ideas, and always ready to learn from the community. Let's build something amazing together! 💻✨
+
+**Feel free to explore my projects, raise issues, and submit PRs. Together, we can make the tech world even more awesome! 🚀**
+
 
 <p align="left">
 <a href="https://github.com/Madd-G">
