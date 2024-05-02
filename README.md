@@ -27,3 +27,18 @@ Excited about coding adventures! Open to collaborations, project ideas, and alwa
 
 **Connect with me :** 
 <a href="https://www.linkedin.com/in/akhmad-nur-alamsyah-678a45194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+### Framework
+
+![flutter](https://img.shields.io/badge/flutter-66B1F1?style=for-the-badge&logo=flutter&logoColor=61DAFB)
+![hapi](https://img.shields.io/badge/Hapi.js-00A7D0?style=for-the-badge&logo=hapi&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-84BA41?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![gin-gonic](https://img.shields.io/badge/Gin%20Gonic-20232A?style=for-the-badge&logo=gin&logoColor=FFFFFF)
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Madd-G&show_icons=true&locale=en" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madd-G&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
