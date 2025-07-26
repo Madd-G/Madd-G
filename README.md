@@ -6,7 +6,7 @@ I'm Akhmad Nur Alamsyah, a passionate coder and recent graduate from Institut Te
 
 ## About Me
 - 🌐 Exploring the tech universe and creating cool stuff.
-- 🎓 Recent graduate from Institut Teknologi Telkom Purwokerto.
+- 🎓 Graduate from Telkom University Purwokerto.
 
 ## Get in Touch
 Feel free to connect, collaborate, or just say hi:
